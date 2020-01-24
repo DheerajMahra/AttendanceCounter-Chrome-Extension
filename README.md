@@ -7,6 +7,8 @@ Don't waste your time counting those present lectures. Let this extension do the
 
 > ## BECAUSE NOBODY LOVES 75% ATTENDANCE CRITERIA 😠
 
+I made this extension to save myself from counting present lectures and then calculating my attendance. Pheww! Quite boring task. isn't it?
+
 # How To Install this extension?
 - Clone this repository or download as a zip file
 - Incase you downloaded as a zip, unzip it
